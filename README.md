@@ -75,7 +75,3 @@ node dist/exercicio1.js
 ou
 
 node dist/exercicio2.js
-
-🙋 Autora
-
-Kátia Dantas
