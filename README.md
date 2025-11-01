@@ -9,14 +9,10 @@
 • [💻 Como Executar](#-como-executar)  
 • [🙋 Autora](#-autora)
 
----
-
 ## 📌 Resumo do Projeto
 
 O **exercicio_ts** é um projeto desenvolvido no **Módulo 26** do curso **Full Stack Python da EBAC**, como prática dos conceitos fundamentais do **TypeScript**.  
 O objetivo é aplicar os principais tipos, criar tipos personalizados e compreender a integração entre **TypeScript** e **JavaScript**.
-
----
 
 ## ⭐ Desafio
 
@@ -26,14 +22,12 @@ O objetivo é aplicar os principais tipos, criar tipos personalizados e compreen
 • Organizar os arquivos dentro da estrutura de compilação (`src` e `dist`).  
 • Compilar o código e testar no terminal usando Node.js.
 
----
-
 ## 📂 Conteúdo do Projeto
 
 ✔️ Exercício 1 – Multiplicação (`exercicio1.ts`)  
 ✔️ Exercício 2 – Saudação (`exercicio2.ts`)  
 
-✔️ Arquivos adicionais com exemplos e práticas (ordem alfabética):  
+✔️ Arquivos adicionais com exemplos e práticas:
 - casting.ts  
 - dom.ts  
 - funcoes.ts  
@@ -43,8 +37,6 @@ O objetivo é aplicar os principais tipos, criar tipos personalizados e compreen
 - tipos_basicos.ts  
 - tipos_customizados.ts
 
----
-
 ## ✔️ Tecnologias Utilizadas
 
 • TypeScript  
@@ -52,26 +44,28 @@ O objetivo é aplicar os principais tipos, criar tipos personalizados e compreen
 • Visual Studio Code  
 • Git e GitHub
 
----
-
 ## 💻 Como Executar
 
 **Instalar o TypeScript (caso ainda não tenha):**  
 
 npm install -g typescript
 
-Compilar os arquivos .ts:
+**Compilar os arquivos .ts:**
 
 npx tsc
 
-Assistir às alterações em tempo real:
+**Assistir às alterações em tempo real:**
 
 npx tsc --watch
 
-Executar o código compilado (exemplos):
+**Executar o código compilado (exemplos):**
 
 node dist/exercicio1.js
 
 ou
 
 node dist/exercicio2.js
+
+## 🙋 Autora
+
+[Kátia Dantas](https://github.com/Katiadantass)
